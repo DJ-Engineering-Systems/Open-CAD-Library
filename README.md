@@ -6,9 +6,3 @@
 | Linear Switch | ✅ | ✅ | ✅ | [Linear Switch](https://github.com/DJ-Engineering-Systems/Open-CAD-Library/tree/main/CAD%20Files/Microcontrollers/ThroughHole/Linear%20Switch) | ![LinearSwitchThumb](https://github.com/DJ-Engineering-Systems/Open-CAD-Library/blob/main/CAD%20Files/Microcontrollers/ThroughHole/Linear%20Switch/LinearSwitchThumbnail.PNG) |
 | HTU21D Breakout Board | ✅ | ✅ | ✅ | [HTU21D Breakout Board](https://github.com/DJ-Engineering-Systems/Open-CAD-Library/tree/main/CAD%20Files/Microcontrollers/ThroughHole/HTU21D%20Breakout%20Board) | ![HTU21DThumb](https://github.com/DJ-Engineering-Systems/Open-CAD-Library/blob/main/CAD%20Files/Microcontrollers/ThroughHole/HTU21D%20Breakout%20Board/HTU21DBreakoutBoardThumbnail.PNG) |
 | 0.96" OLED Module | ✅ | ✅ | ✅ | [0.96" OLED Module](https://github.com/DJ-Engineering-Systems/Open-CAD-Library/tree/main/CAD%20Files/Microcontrollers/ThroughHole/096%20OLED%20Module) | ![096OLEDThumb](https://github.com/DJ-Engineering-Systems/Open-CAD-Library/blob/main/CAD%20Files/Microcontrollers/ThroughHole/096%20OLED%20Module/096OLEDModuleThumbnail.png) |
-
-### Logo CAD Files
-| Logo Name | F3D | STEP | Source SVG | Link | Thumbnail Preview |
-|-----------|-----|------|------------|------|-------------------|
-| Volkswagen | ✅ | ✅ | ✅ | [Volkswagen Logo](https://github.com/DJ-Engineering-Systems/Open-CAD-Library/tree/main/CAD%20Files/Designing/Logos/Volkswagen) | ![VolkswagenThumb](https://github.com/DJ-Engineering-Systems/Open-CAD-Library/blob/main/CAD%20Files/Designing/Logos/Volkswagen/VolkswagenLogoThumb.PNG) |
-| Audi | ✅ | ✅ | ✅ | [Audi Logo](https://github.com/DJ-Engineering-Systems/Open-CAD-Library/tree/main/CAD%20Files/Designing/Logos/Audi) | ![VolkswagenThumb](https://github.com/DJ-Engineering-Systems/Open-CAD-Library/blob/main/CAD%20Files/Designing/Logos/Audi/AudiLogoThumb.PNG) |
